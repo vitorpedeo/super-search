@@ -79,4 +79,4 @@ expo start
 
 ---
 
-Made with :heart:by Vitor Pereira.
+Made with :heart: by Vitor Pereira.
