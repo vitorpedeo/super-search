@@ -22,12 +22,12 @@
 <p align='center' >
  <a href='#-about-the-project' >About the project</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
  <a href='#-technologies' >Technologies</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
- <a href='#-getting-started' >Installation</a> 
+ <a href='#-getting-started' >Getting started</a> 
 </p>
 
 ---
 
-## :leaves: About the project
+## 🍃 About the project
 
 <p align='center' >
  <img src='https://i.imgur.com/HXJjuZl.png' />
@@ -38,7 +38,7 @@ You can search any hero (or villain), and the app will provide you information a
 
 ---
 
-## :rocket: Technologies
+## 🚀 Technologies
 
 For this project, I used React Native alongside with Expo.
 
@@ -55,7 +55,7 @@ For this project, I used React Native alongside with Expo.
 
 ---
 
-## :hammer: Getting started
+## 🔨 Getting started
 
 To run this project in your machine, you need to install <a href='https://yarnpkg.com/' >yarn</a> and <a href='https://expo.io/' >Expo</a>.
 
@@ -79,4 +79,4 @@ expo start
 
 ---
 
-Made with :heart:.
+Made with :heart:by Vitor Pereira.
